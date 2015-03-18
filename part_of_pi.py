@@ -1,6 +1,6 @@
 """
 Calcul d'une partie du nombre pi
-Stockera le resultat dans un fichier resultats.tmp
+Stockera le resultat dans un fichier tmp_result{numero de l'unité de calcul}
 """
 import sys
 
