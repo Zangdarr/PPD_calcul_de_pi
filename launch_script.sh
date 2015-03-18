@@ -1,0 +1,1 @@
+#script de lancement du calcul de pi en parallèle
